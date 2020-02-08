@@ -22,7 +22,6 @@ In this script, you need to have a Rebel vehicle to use the mission
 
 vRPEX (1.0)
 
-
 ## Authors
 
 * *GaloCego** - *Initial work* - [VPSService](http://vpsservice.ddns.net)
@@ -33,3 +32,6 @@ vRPEX (1.0)
 ## Video 
 
 [Play video](https://youtu.be/VwLO0qJLedw)
+
+## Contact
+discord: GaloCego#9290
